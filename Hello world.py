@@ -1,0 +1,2 @@
+print("Olá pessoas, esse vai ser meu primeiro projeto... é só um teste de git, estou aprendendo a subir meus arquivos no github" \
+"\n enão espero que gostem muito, mas é só um teste mesmo, então não liguem para a qualidade do código.")
